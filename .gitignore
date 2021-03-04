@@ -5,6 +5,7 @@
 /mongodb-data
 /frontend
 /backend
+/docker-compose.yml
 /.pnp
 .pnp.js
 
